@@ -1,5 +1,5 @@
 ## Synopsis
-In this exercise, I implemented multivariate linear regression with the gradient descent algorithm and the normal equation as two ways to minimize the cost function J(theta). Also included here is an exercise of preprocessing feature normalization. 
+In this exercise, I implemented multivariate linear regression with the gradient descent algorithm and the normal equation as two ways to minimize the cost function J(theta). Also included here is a preprocessing step of feature normalization and some helpful functions for plotting datasets. 
 
 Files included in this exercise:
 ex1.m - Octave/MATLAB script that steps through the exercise
